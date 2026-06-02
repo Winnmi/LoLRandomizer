@@ -84,4 +84,4 @@ Email: lol-randomizer@winnmi.de
 Discord: https://discord.gg/VsrytepGwq | zmeylolr
 
 # 11. Data Controller
-For purposes of applicable data protection laws, the operator of [BOT NAME] is the data controller responsible for the processing of personal data described in this Privacy Policy.
+For purposes of applicable data protection laws, the operator of LoL Randomizer is the data controller responsible for the processing of personal data described in this Privacy Policy.
