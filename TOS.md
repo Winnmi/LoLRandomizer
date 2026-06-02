@@ -1,3 +1,5 @@
+LoL Randomizer ("the Bot", "we", "our", or "us")
+
 By inviting, accessing, or using the Bot, you agree to these Terms of Service ("Terms"). If you do not agree with these Terms, do not use the Bot.
 
 # 1. Description of Service
